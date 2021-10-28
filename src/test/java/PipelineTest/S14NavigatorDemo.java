@@ -34,5 +34,6 @@ public class S14NavigatorDemo {
 		// again open same url
 		driver.navigate().refresh();
 		System.out.println(driver.getTitle());
+		System.out.println("this is navigation page");
 }
 }
