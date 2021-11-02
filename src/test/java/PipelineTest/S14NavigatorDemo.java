@@ -24,7 +24,7 @@ public class S14NavigatorDemo {
 		driver.navigate().back();
 		System.out.println(driver.getTitle());
 		Thread.sleep(2000);
-		System.out.println("this is navigation page updated for auto trigger 2 ");
+		
 		
 		
 		//navigate again to second url
